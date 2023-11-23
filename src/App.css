@@ -1,0 +1,400 @@
+body{
+  background-color: #f5efef;
+}
+.navbar {
+  
+
+  width: 100%;
+
+  
+
+  padding: 5px 0;
+}
+.h1{
+  max-width: 200px;
+}
+.navbar section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 50px;
+
+  border-bottom: 1px solid #000;
+}
+.navbarRight {
+  display: flex;
+  align-items: center;
+}
+.loop {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 0 15px;
+}
+.navbarRight span {
+  margin-left: 25px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #000;
+}
+.navbarRight h1 {
+  margin-right: 10px;
+  font-size: 24px;
+  font-weight: 700;
+  color: #000;
+}
+.navbarLeft {
+  display: flex;
+}
+.navbarLeft div {
+  cursor: pointer;
+  margin-right: 15px;
+  padding: 8px 20px;
+  font-size: 16px;
+}
+.navbarLeft .navbarSchedule {
+  border: 1px solid #000;
+  color: #000;
+}
+.navbarLeft .navbarTickets {
+  background-color: darkred;
+  color: #fff;
+}
+.News{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.search{
+  width: 60%;
+  background-color: #fff;
+  display: flex;
+  padding: 10px;
+  gap: 10px;
+  border: 1px solid #000;
+  align-items: center;
+  justify-content: left;
+}
+.search input{
+  
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  color: #000;
+  border: none;
+}
+.searchDiv{
+  gap: 10px;
+  height: fit-content;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button{
+  cursor: pointer;
+  color: #fff;
+  padding: 10px 0;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+  height: 100%;
+  background-color: #b20c0c;
+  width:40%;
+}
+.search input:focus{
+  outline: none;
+}
+.catch{
+  height: 100%;
+  min-height: 100vh;
+  align-items: center;
+  width: 50vw!important;
+ 
+  justify-content: center!important;
+
+  flex-direction: column!important;
+}
+.catchphrase{
+
+  right: 0;
+  
+
+  font-size: 45px;
+  width: 600px;
+
+  font-weight: 900;
+  text-align: right;
+}
+.S{
+  font-size: 50px;
+}
+.red{
+  color: #b20c0c;
+}
+.newsSearch{
+  display: flex;
+}
+.mainImage{
+  cursor: pointer;
+  width: 100%;
+  height: 250px;
+  object-fit:cover;
+}
+.mainImage :hover{
+  opacity: 0.2!important;
+}
+.logoImage{
+  width: auto;
+  max-width: 50%;
+  height: 30px;
+  object-fit: contain;
+}
+.mainPage{
+
+
+  width: 70vw;
+
+}
+.mainPage section{
+ 
+  position: relative;
+  display: flex;
+ flex-direction: column;
+
+  
+  justify-content: left;
+  margin: 10px;
+  margin-top: 20px;
+
+}
+#root{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Noto Sans New Tai Lue', sans-serif;
+}
+.slick-track{
+  margin: 0!important;
+}
+.articleWindow{
+  padding: 5px;
+  width: 400px!important;
+  height: 500px;
+  border-radius: 5px;
+  border: 1px solid #000;
+}
+.articleWindow *{
+  max-width: 100%;
+}
+
+.custom-slider-container {
+ 
+  margin: 10px 0;
+ 
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.custom-slider-container h2{
+  cursor: pointer;
+  font-weight: 700;
+       
+  color: #b20c0c;
+}
+.slider-item h2:hover{
+  font-style: italic;
+}
+.title{
+  color: #000!important;
+  text-transform: uppercase;
+}
+
+.custom-slider {
+
+  overflow: hidden;
+  position: relative;
+}
+.buttons{
+
+  position: absolute;
+  right: 0;
+  display: flex;
+  height: fit-content;
+  gap: 10px;
+}
+
+.slider-track {
+  display: flex;
+
+  gap: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.slider-item {
+  background-color: #fff;
+  padding: 20px;
+  flex: 0 0 auto;
+  width: 400px;
+  position: relative;
+}
+.slider-item:before {
+  z-index: 99;
+  content: attr(data-text); /* here's the magic */
+  position:absolute;
+  
+  /* vertically center */
+  top:50%;
+  transform:translateY(-50%);
+  
+  /* move to right */
+  left:100%;
+  margin-left:15px; /* and add a small left margin */
+  
+  /* basic styles */
+  width:200px;
+  padding:10px;
+  border-radius:10px;
+  background:#000;
+  color: #fff;
+  text-align:center;
+
+  display:none; /* hide by default */
+}
+.slider-item:hover:before,.slider-item:hover:after {
+  display:block;
+}
+.slider-item:after {
+  content: "";
+  position:absolute;
+  
+  /* position tooltip correctly */
+  left:100%;
+  margin-left:-5px;
+ 
+  /* vertically center */
+  top:50%;
+  transform:translateY(-50%);
+ 
+  /* the arrow */
+  border:10px solid #000;
+  border-color: transparent black transparent transparent;
+  
+  display:none;
+}
+
+.prev-button,
+.next-button {
+  height: fit-content;
+  border-radius: 5px;
+  background-color: #fff;
+  border: none;
+  color: #b20c0c;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.prev-button {
+  left: 10px;
+}
+
+.next-button {
+  right: 10px;
+}
+.navbar .fas{
+  font-size: 20px!important;
+  margin: 10px;
+}
+.p-catchphrase{
+  width: 100%;
+  display: flex;
+  justify-content: right;
+}
+@media screen and (max-width: 1300px){
+  .catch{
+    width: 58vw!important;
+  }
+  .slider-item{
+    width: 250px;
+  }
+  .custom-slider-container h2 {
+    font-size: 18px;
+  }
+  .mainImage {
+    height: 200px;
+  }
+  .logoImage {
+    height: 20px;
+  }
+}
+@media screen and (max-width: 900px){
+  .catch{
+    width: 70vw!important;
+  }
+  .navbarRight h1 {
+    font-size: 18px;
+  }
+  .mainPage {
+    width: 90vw;
+  }
+  .navbar section {
+    margin: 0 20px;
+  }
+  .navbarLeft div {
+    
+    margin-right: 10px;
+    padding: 6px 15px;
+    font-size: 14px;
+  }
+}
+@media screen and (max-width: 600px){
+  catch{
+    width: 100%;
+  }
+  .slider-item {
+    width: 89%;
+  }
+  .mainImage {
+    height: 250px;
+  }
+  .navbarLeft div {
+    
+    margin-right: 8px;
+    padding: 4px 10px;
+    font-size: 12px;
+  }
+  .navbarRight h1 {
+    font-size: 16px;
+  }
+  .mainPage {
+    width: 100vw;
+  }
+  .navbar section {
+    margin: 0 10px;
+  }
+  .catchphrase {
+    right: 0;
+    font-size: 30px;
+    width: 600px;
+    font-weight: 900;
+    text-align: right;
+  }
+  .searchDiv {
+    flex-direction: column;
+  }
+  .button ,.search {
+    width: 100%;
+  }
+  .button{
+    padding: 10px 15px;
+  }
+}
+@media screen and (max-width: 500px){
+  .slider-item {
+    width: 88%;
+  }}

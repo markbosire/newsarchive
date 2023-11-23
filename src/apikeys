@@ -1,0 +1,9 @@
+c41f430c4fa64a92ae61f87b443e0293
+3a7685f9835d47f2904bad839e167350
+70ec5710d35f444db6bf32becdcf9346
+
+    <NewsCategory articles={leftWingArticles} category="Left Wing" />
+      <NewsCategory articles={leanLeftArticles} category="Lean Left" />
+      <NewsCategory articles={centerArticles} category="Center" />
+      <NewsCategory articles={leanRightArticles} category="Lean Right" />
+      <NewsCategory articles={rightWingArticles} category="Right Wing" />

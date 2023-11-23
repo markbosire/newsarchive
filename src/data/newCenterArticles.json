@@ -1,0 +1,58 @@
+[
+  {
+    "source": {
+      "id": "bbc-news",
+      "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Israel-Gaza: We answer your questions",
+    "description": "Our correspondents answer your questions on the conflict between Israel and Hamas.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-67128533",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3650/production/_131440931_mediaitem131444393.jpg",
+    "publishedAt": "2023-10-16T20:24:36Z",
+    "content": "The world is still reeling from the unprecedent assault by Hamas gunmen on 7 October, and the subsequent retaliatory strikes by Israel and expected land invasion into the Gaza Strip. \r\nWe have receiv… [+9186 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/281px-BBC_News_2022_%28Alt%29.svg.png"
+  },
+  {
+    "source": {
+      "id": "newsweek",
+      "name": "Newsweek"
+    },
+    "author": "Micah McCartney",
+    "title": "Why China Won't Condemn Hamas",
+    "description": "Israeli researcher Tuvia Gering explains the reasons behind anti-Israel sentiments in China.",
+    "url": "https://www.newsweek.com/china-israel-hamas-war-1836213",
+    "urlToImage": "https://d.newsweek.com/en/full/2296964/israeli-air-strikes-gaza-city.jpg",
+    "publishedAt": "2023-10-19T19:23:54Z",
+    "content": "As the Israel-Gaza conflict unfolds, China is positioning itself as a peace broker, but it has yet to condemn the Hamas militants who sparked the crisis.\r\nTuvia Gering, a researcher at the Tel Aviv U… [+3240 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Newsweek_Logo.svg/703px-Newsweek_Logo.svg.png"
+  },
+  {
+    "source": {
+      "id": "reuters",
+      "name": "Reuters"
+    },
+    "author": "bd.",
+    "title": "ONZ nazywa Gazę „cmentarzem dzieci”",
+    "description": "Gaza is becoming a \"graveyard for children\", U.N. Secretary General Antonio Guterres said on Monday, amplifying demands for a ceasefire in the enclave, where Palestinian health authorities said the death toll from Israeli strikes had exceeded 10,000.",
+    "url": "https://www.reuters.com/world/middle-east/pressure-israel-over-civilians-steps-up-ceasefire-calls-rebuffed-2023-11-06/",
+    "urlToImage": "https://www.reuters.com/resizer/aAV-SfrH-mdJTvvkscOT59pxpjA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EEESDHHP7BP65JXRNJD6WSBPXI.jpg",
+    "publishedAt": "2023-11-07T05:39:16Z",
+    "content": "GAZA, Nov 6 (Reuters) - Gaza is becoming a \"graveyard for children\", U.N. Secretary General Antonio Guterres said on Monday, amplifying demands for a ceasefire in the enclave, where Palestinian healt… [+6909 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Reuters_logo.svg/1024px-Reuters_logo.svg.png"
+  },
+  {
+    "source": {
+      "id": "the-hill",
+      "name": "The Hill"
+    },
+    "author": "Rebecca Beitsch",
+    "title": "ADL reports surge in antisemitic incidents...",
+    "description": "An Anti-Defamation League (ADL) has tracked a massive surge in antisemitic incidents following the Oct. 7 attack launched by Hamas. The group documented 312 antisemitic incidents in the more than two weeks since a war broke out between Hamas and Israel. The f…",
+    "url": "https://thehill.com/homenews/4273588-adl-surge-antisemitic-incidents-israel-hamas-war/",
+    "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/10/GettyImages-1750108426-e1698188175612.jpg?w=1280",
+    "publishedAt": "2023-10-25T12:07:38Z",
+    "content": "Skip to content\r\nAn Anti-Defamation League (ADL) has tracked a massive surge in antisemitic incidents following the Oct. 7 attack launched by Hamas.\r\nThe group documented 312 antisemitic incidents in… [+1039 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/SILENT_HILL_2_LOGO_%28Alt.%29.svg/512px-SILENT_HILL_2_LOGO_%28Alt.%29.svg.png"
+  }
+]

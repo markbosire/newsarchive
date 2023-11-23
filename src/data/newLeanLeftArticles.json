@@ -1,0 +1,100 @@
+[
+  {
+    "source": {
+      "id": "abc-news",
+      "name": "ABC News"
+    },
+    "author": "ABC News",
+    "title": "WATCH: Hamas: 71 killed in Israeli strikes near Rafah",
+    "description": "Palestinians say the strikes targeted Rafah, which is the sole border crossing between Gaza and Egypt. It remains closed.",
+    "url": "https://abcnews.go.com/International/video/hamas-71-killed-israeli-strikes-rafah-104042701",
+    "urlToImage": "https://i.abcnewsfe.com/a/7c8b120f-d4ad-4672-8aa8-7180f636dbd0/231017_abcnl_11am_rivers_hpMain_16x9.jpg?w=992",
+    "publishedAt": "2023-10-17T16:31:06Z",
+    "content": "<ul><li>Whats next for Russia? \r\n</li><li>What comes next after Texas school shooting?\r\n</li><li>What's next for abortion rights in America?\r\n</li><li>The new battle for voting rights\r\n</li><li>How w… [+2272 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ABC_News_Live_logo.svg/181px-ABC_News_Live_logo.svg.png"
+  },
+  {
+    "source": {
+      "id": "cbs-news",
+      "name": "CBS News"
+    },
+    "author": "CBS News",
+    "title": "Global divisions deepen amid Israel-Hamas war",
+    "description": "While President Biden has affirmed U.S. support for Israel, Russia and China have called for a cease-fire. Steve Inskeep, host of NPR's \"Morning Edition,\" joins CBS News to discuss what we can learn from Abraham Lincoln's presidency about today's divisions.",
+    "url": "https://www.cbsnews.com/video/global-divisions-deepen-amid-israel-hamas-war/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/10/19/d699eaa4-5290-4e3b-bf1d-3a5ea5404a78/thumbnail/1200x630/2e8c32638b2c41bd883a1ced8f658f30/cbsn-fusion-global-divisions-deepen-amid-israel-hamas-war-thumbnail.jpg?v=18a5d3569ab1a3ca759fe14d213f7845",
+    "publishedAt": "2023-10-19T22:28:00Z",
+    "content": "Watch CBS News\r\nCopyright ©2023 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/CBS_Evening_News_horizontal_2022.svg/500px-CBS_Evening_News_horizontal_2022.svg.png"
+  },
+  {
+    "source": {
+      "id": "cnn",
+      "name": "CNN"
+    },
+    "author": "Sofía Barruti",
+    "title": "OPINIÓN | Muchos palestinos en Gaza odian Hamas. Mi padre ciertamente era uno de ellos",
+    "description": "La opinión de Yasmine Mohammed, en medio del conflicto entre Hamas e Israel. La historia de su padre y por qué es importante diferenciar a Gaza de Hamas.",
+    "url": "https://cnnespanol.cnn.com/2023/10/17/opinion-palestinos-odian-hamas-trax/",
+    "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/10/GettyImages-1729450842-e1697537552816.jpg?quality=100&strip=info",
+    "publishedAt": "2023-10-17T10:08:25Z",
+    "content": "La desesperación invade en los hospitales de Gaza 3:36\r\nNota del editor: Yasmine Mohammed es la autora de Unveiled: How Western Liberals Empower Radical Islam. También es presidenta de la organizació… [+6001 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/379px-CNN.svg.png"
+  },
+  {
+    "source": {
+      "id": "nbc-news",
+      "name": "NBC News"
+    },
+    "author": "The Associated Press",
+    "title": "Hamas militants likely used some North Korean weapons in attack on Israel, evidence shows",
+    "description": "Hamas fighters most likely fired North Korean weapons during their Oct. 7 assault on Israel, a militant video and weapons seized by Israel show.",
+    "url": "https://www.nbcnews.com/news/world/evidence-shows-hamas-militants-likely-used-north-korean-weapons-rcna121171",
+    "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-10/231019-israel-palestinians-weapons-mn-0540-2819af.jpg",
+    "publishedAt": "2023-10-19T09:49:32Z",
+    "content": "SEOUL, South Korea  Hamas fighters most likely fired North Korean weapons during their Oct. 7 assault on Israel, a militant video and weapons seized by Israel show, despite Pyongyangs denials that it… [+3996 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NBC_News_%282023%29.svg/239px-NBC_News_%282023%29.svg.png"
+  },
+  {
+    "source": {
+      "id": "politico",
+      "name": "Politico"
+    },
+    "author": "Kelly Garrity",
+    "title": "Biden announces $100 million in humanitarian aid to Gaza and West Bank",
+    "description": "Biden cautioned Hamas against attempting to divert the aid.",
+    "url": "https://www.politico.com/news/2023/10/18/biden-humanitarian-aid-gaza-west-bank-00122212",
+    "urlToImage": "https://static.politico.com/a2/15/937838424e4289f08a0793d3c530/ap23291562317564.jpg",
+    "publishedAt": "2023-10-18T16:19:29Z",
+    "content": "Biden cautioned Hamas against attempting to divert the aid, saying that if the group attempts to interfere assistance will end.\r\nIf Hamas diverts or steals the assistance, they will have demonstrated… [+1127 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Logo_PMBR.svg/199px-Logo_PMBR.svg.png"
+  },
+  {
+    "source": {
+      "id": "the-washington-post",
+      "name": "The Washington Post"
+    },
+    "author": "Washington Post",
+    "title": "Why Punishing People For Unpopular Speech Is A Bad Idea",
+    "description": "The idea that having distasteful opinions should render a person de facto unemployable has always struck me as profoundly self-defeating: Even the real jerks among us have families to feed.  – Washington Post",
+    "url": "https://www.washingtonpost.com/opinions/2023/11/06/free-speech-being-jerk-social-media-dismissals/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SWAKFBM5NCIHFKUESK46DP4H3M.JPG&w=1440",
+    "publishedAt": "2023-11-06T19:48:00Z",
+    "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nKat Rosenfield is the author of the novel You Must Remember This and a columnist at Unherd.\r\nIn times of global turmoil, nothing fuels… [+6694 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/The_Logo_of_The_Washington_Post_Newspaper.svg/463px-The_Logo_of_The_Washington_Post_Newspaper.svg.png"
+  },
+  {
+    "source": {
+      "id": "usa-today",
+      "name": "USA Today"
+    },
+    "author": "Lauren Villagran, USA TODAY",
+    "title": "Trump, other Republicans call for travel restrictions, sparking new 'Muslim ban' fears",
+    "description": "Muslim, Arab Americans fear travel ban after Trump, more than a dozen Republicans call for visa restrictions some say are \"reminiscent of post 9/11.\"",
+    "url": "https://www.usatoday.com/story/news/nation/2023/11/03/trump-calls-for-ideological-screenings-ignite-muslim-ban-fears/71315283007/",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/v1qxzlaVcwpoO1JgNyLGPw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/usa_today_news_641/5af9910fa2e089dfd1f6480b6b7fc0c8",
+    "publishedAt": "2023-11-03T11:01:32Z",
+    "content": "The doors to Adam Abusalah's local mosque, once open to the public, are now locked.\r\nSince the Oct. 7 deadly attack on Israel by Hamas, leaders at Abusalah's Detroit mosque have increased security du… [+8282 chars]",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USA_Today_2012logo.svg/342px-USA_Today_2012logo.svg.png"
+  }
+]
